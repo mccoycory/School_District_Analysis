@@ -14,21 +14,39 @@ Secondly, we performed the same analysis by taking out the 9th graders at Thomas
 
 Below are some screenshots of the dataframe results. 
 
+### District Summary
+
 ![District Summary](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/School%20District%20Summary.png)
 
-![District Summary without 9th Grade at Thomas High School]
+### District Summary without 9th Grade at Thomas High School
+
+![District Summary without 9th Grade at Thomas High School](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/Orginal%20District%20School%20Summary.png)
+
+### Top 5 Performing Schools
 
 ![Top 5 Performing Schools](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/Top%20Performing%20Schools.png)
 
+### Bottom Performing Schools
+
 ![Bottom Performing Schools](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/Bottom%20Performing%20School.png)
+
+### Average Math Scores per School
 
 ![Average Math Scores per School](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/Average%20Math%20scores%20by%20school.png)
 
+### Average Reading Scores per School
+
 ![Average Reading Scores per School](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/Average%20Reading%20scores%20by%20school.png)
+
+### Average Scores by School Size
 
 ![Average Scores by School Size](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/Average%20scores%20by%20size.png)
 
+### Average Score by School Funding
+
 ![Average Score by School Funding](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/Average%20Scores%20by%20spending.png)
+
+### Average Score by School Type
 
 ![Average Score by School Type](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/Average%20score%20by%20school%20type.png)
 
