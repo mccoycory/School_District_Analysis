@@ -16,7 +16,7 @@ Below are some screenshots of the dataframe results.
 
 ![District Summary](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/School%20District%20Summary.png)
 
-1[District Summary without 9th Grade at Thomas High School](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/School%20District%20Summary.png)
+[District Summary without 9th Grade at Thomas High School](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/School%20District%20Summary.png)
 
 ![Top 5 Performing Schools](https://github.com/mccoycory/School_District_Analysis/blob/main/Resources/Top%20Performing%20Schools.png)
 
